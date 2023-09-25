@@ -14,8 +14,12 @@ libusb used, error
 winusb used ok, test, minicore, Atmega8  
 ![winusb_driver_OK.JPG](winusb_driver_OK.JPG)  
 
+winusb driver v6.1.1700.16385, not working with Avrdue 6.3, but ok with 7.1  
+![winusb_avrdude6.3_7.1_test.JPG](winusb_avrdude6.3_7.1_test.JPG)  
+
 ### Zadig, the tool
 https://zadig.akeo.ie/  
+[zadig-2.8.exe](zadig-2.8.exe)  
 
 ### this is why,  
 https://github.com/avrdudes/avrdude/wiki/Troubleshooting-USB-devices-in-Windows  
